@@ -12,9 +12,26 @@ namespace LineComparisonPrograms
         {
             Console.WriteLine("Welcome To The Line Comparison Program");
             Line line = new Line(1, 2, 3, 4);
-            line.Length();
+            double length1= line.Length();
+            Console.ReadLine();
+
+            Line line2 = new Line(5, 6, 7, 9);
+            double length2 = line2.Length();
+            Console.WriteLine("Length of 2nd Line : " + length2);
+
+            if (length1.Equals(length2))
+            {
+                Console.WriteLine("Both Line Are Equal");
+            }
+            else
+            {
+                Console.WriteLine("Both Line Are not Equal");
+            }
             Console.ReadLine();
 
         }
+
     }
 }
+    
+

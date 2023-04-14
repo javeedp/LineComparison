@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace LineComparisonPrograms
 {
+     
         public class Line
         {
             int PointX1, pointY1, poIntX2, pointY2;
@@ -17,10 +18,10 @@ namespace LineComparisonPrograms
                 this.pointY2 = pointY2;
             }
 
-            public void Length()
+            public double Length()
             {
                 double length = Math.Sqrt(Math.Pow((poIntX2 - PointX1), 2) + Math.Pow((pointY2 - pointY1), 2));
-                Console.WriteLine("length of line : " + length);
+                return length;
             }
         }
 }
