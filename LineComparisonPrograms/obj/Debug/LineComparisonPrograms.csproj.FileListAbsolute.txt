@@ -1,0 +1,8 @@
+C:\Users\javee\source\repos\LineComparisonPrograms\LineComparisonPrograms\bin\Debug\LineComparisonPrograms.exe.config
+C:\Users\javee\source\repos\LineComparisonPrograms\LineComparisonPrograms\bin\Debug\LineComparisonPrograms.exe
+C:\Users\javee\source\repos\LineComparisonPrograms\LineComparisonPrograms\bin\Debug\LineComparisonPrograms.pdb
+C:\Users\javee\source\repos\LineComparisonPrograms\LineComparisonPrograms\obj\Debug\LineComparisonPrograms.csproj.AssemblyReference.cache
+C:\Users\javee\source\repos\LineComparisonPrograms\LineComparisonPrograms\obj\Debug\LineComparisonPrograms.csproj.SuggestedBindingRedirects.cache
+C:\Users\javee\source\repos\LineComparisonPrograms\LineComparisonPrograms\obj\Debug\LineComparisonPrograms.csproj.CoreCompileInputs.cache
+C:\Users\javee\source\repos\LineComparisonPrograms\LineComparisonPrograms\obj\Debug\LineComparisonPrograms.exe
+C:\Users\javee\source\repos\LineComparisonPrograms\LineComparisonPrograms\obj\Debug\LineComparisonPrograms.pdb
